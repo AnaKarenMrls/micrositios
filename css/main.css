@@ -111,9 +111,13 @@ h1{
 
 
 img{
-    width: 100%;
-    max-width: 100%;
+    width: 50%;
+    max-width: 50%;
 padding: 1rem;
+
+.center-image {
+    margin-left: 50%;
+    }
 }
 
 .btn{
@@ -129,7 +133,7 @@ padding: 1rem;
 }
 
 .center-image {
-    margin-left: 20%;
+    margin-left: 50%;
     }
 
 .justify-text {text-align: justify;
