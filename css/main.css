@@ -98,12 +98,43 @@ textarea {
    ========================================================================== */
 
 
+body{
+    font-family: 'Noto Serif SC', serif;
+    background: #eee
+
+}
+
+h1{
+    text-align: center;
+    padding: 3rem;
+}
 
 
+img{
+    width: 100%;
+    max-width: 100%;
+padding: 1rem;
+}
 
+.btn{
+    background-color: blue;
+    margin:1rem;
+    border-color: blue;
+}
 
+.btn: hover{
+    background-color: blue;
+    margin: 1rem;
+    border-color: blue;
+}
 
+.center-image {
+    margin-left: 20%;
+    }
 
+.justify-text {text-align: justify;
+
+}
 
 
 
